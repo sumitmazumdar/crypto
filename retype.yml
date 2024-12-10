@@ -1,0 +1,31 @@
+input: .
+output: .retype
+url: # Will be updated when deployed
+branding:
+  title: Painkilla
+  label: BETA
+  logo: /static/painkilla-logo.svg
+  logoDark: /static/painkilla-logo-dark.svg
+meta:
+  title: " | Painkilla - The Meme Coin That Hits Pain Where It Hurts"
+favicon: /static/favicon.ico
+theme:
+  colors:
+    primary: #FF4136
+  dark: true
+links:
+  - text: Whitepaper
+    link: /whitepaper
+  - text: Tokenomics
+    link: /tokenomics
+  - text: Roadmap
+    link: /roadmap
+  - text: Join Community
+    link: /community
+footer:
+  copyright: "&copy; {{ year }} Painkilla. All rights reserved."
+  links:
+    - text: Terms
+      link: /terms
+    - text: Privacy
+      link: /privacy
